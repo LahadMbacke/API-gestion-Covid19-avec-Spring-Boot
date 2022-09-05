@@ -1,0 +1,82 @@
+C:\Users\Aidara\source\repos\ProjetCovid\ProjetCovid\bin\Debug\ProjetCovid.exe.config
+C:\Users\Aidara\source\repos\ProjetCovid\ProjetCovid\bin\Debug\ProjetCovid.exe
+C:\Users\Aidara\source\repos\ProjetCovid\ProjetCovid\bin\Debug\ProjetCovid.pdb
+C:\Users\Aidara\source\repos\ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.csproj.AssemblyReference.cache
+C:\Users\Aidara\source\repos\ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aidara\source\repos\ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.FormCovid.resources
+C:\Users\Aidara\source\repos\ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.Properties.Resources.resources
+C:\Users\Aidara\source\repos\ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.csproj.GenerateResource.cache
+C:\Users\Aidara\source\repos\ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.csproj.CoreCompileInputs.cache
+C:\Users\Aidara\source\repos\ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.exe
+C:\Users\Aidara\source\repos\ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.pdb
+C:\Users\Aidara\source\repos\ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.FormStructure.resources
+C:\Users\Aidara\source\repos\ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.InscriptionPatient.resources
+C:\Users\Aidara\source\repos\ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.LoginPatient.resources
+C:\Users\Aidara\source\repos\ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.RendezVouscs.resources
+E:\Projet Web Service\ProjetCovid\ProjetCovid\bin\Debug\ProjetCovid.exe.config
+E:\Projet Web Service\ProjetCovid\ProjetCovid\bin\Debug\ProjetCovid.exe
+E:\Projet Web Service\ProjetCovid\ProjetCovid\bin\Debug\ProjetCovid.pdb
+E:\Projet Web Service\ProjetCovid\ProjetCovid\bin\Debug\Newtonsoft.Json.Bson.dll
+E:\Projet Web Service\ProjetCovid\ProjetCovid\bin\Debug\Newtonsoft.Json.dll
+E:\Projet Web Service\ProjetCovid\ProjetCovid\bin\Debug\System.Net.Http.Extensions.dll
+E:\Projet Web Service\ProjetCovid\ProjetCovid\bin\Debug\System.Net.Http.Formatting.dll
+E:\Projet Web Service\ProjetCovid\ProjetCovid\bin\Debug\System.Net.Http.Primitives.dll
+E:\Projet Web Service\ProjetCovid\ProjetCovid\bin\Debug\Newtonsoft.Json.xml
+E:\Projet Web Service\ProjetCovid\ProjetCovid\bin\Debug\Newtonsoft.Json.Bson.pdb
+E:\Projet Web Service\ProjetCovid\ProjetCovid\bin\Debug\Newtonsoft.Json.Bson.xml
+E:\Projet Web Service\ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.csproj.SuggestedBindingRedirects.cache
+E:\Projet Web Service\ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.FormCovid.resources
+E:\Projet Web Service\ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.FormStructure.resources
+E:\Projet Web Service\ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.InscriptionPatient.resources
+E:\Projet Web Service\ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.LoginPatient.resources
+E:\Projet Web Service\ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.Principale.resources
+E:\Projet Web Service\ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.Properties.Resources.resources
+E:\Projet Web Service\ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.RendezVouscs.resources
+E:\Projet Web Service\ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.csproj.GenerateResource.cache
+E:\Projet Web Service\ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.csproj.CoreCompileInputs.cache
+E:\Projet Web Service\ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.csproj.CopyComplete
+E:\Projet Web Service\ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.exe
+E:\Projet Web Service\ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.pdb
+E:\Projet Web Service\ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.csproj.AssemblyReference.cache
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.csproj.SuggestedBindingRedirects.cache
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.FormCovid.resources
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.FormStructure.resources
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.InscriptionPatient.resources
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.LoginPatient.resources
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.Covid.RandezVous.resources
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.Principale.resources
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.Properties.Resources.resources
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.csproj.GenerateResource.cache
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.csproj.CoreCompileInputs.cache
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.exe
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.pdb
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\bin\Debug\ProjetCovid.exe.config
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\bin\Debug\ProjetCovid.exe
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\bin\Debug\ProjetCovid.pdb
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\bin\Debug\Newtonsoft.Json.Bson.dll
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\bin\Debug\Newtonsoft.Json.dll
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\bin\Debug\System.Net.Http.Extensions.dll
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\bin\Debug\System.Net.Http.Formatting.dll
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\bin\Debug\System.Net.Http.Primitives.dll
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\bin\Debug\Newtonsoft.Json.xml
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\bin\Debug\Newtonsoft.Json.Bson.pdb
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\bin\Debug\Newtonsoft.Json.Bson.xml
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.csproj.CopyComplete
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.csproj.AssemblyReference.cache
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.Covid.GoogleMap.resources
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\bin\Debug\EntityFramework.dll
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\bin\Debug\GMap.NET.Core.dll
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\bin\Debug\GMap.NET.WindowsForms.dll
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\bin\Debug\GMap.NET.WindowsPresentation.dll
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\bin\Debug\System.Data.SqlClient.dll
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\bin\Debug\System.Data.SQLite.dll
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\bin\Debug\System.Security.Principal.Windows.dll
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\bin\Debug\EntityFramework.xml
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\bin\Debug\System.Data.SqlClient.xml
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\bin\Debug\System.Data.SQLite.xml
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\bin\Debug\System.Security.Principal.Windows.xml
+E:\Projet Web Service\Client_ProjetCovid\ProjetCovid\obj\Debug\ProjetCovid.Covid.MesRvs.resources

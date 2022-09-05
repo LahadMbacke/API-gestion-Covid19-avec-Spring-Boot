@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a43e6bfe-b72b-41b3-9b44-b55af3e3bc18": {
+      "ProjectGuid": "a43e6bfe-b72b-41b3-9b44-b55af3e3bc18",
+      "DisplayName": "ProjetCovid",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Fichiers divers",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
